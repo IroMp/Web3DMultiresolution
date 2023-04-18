@@ -17,6 +17,8 @@ Use your own .nxs models and set their paths as values in the Dropdown menu.
 ```
 If the models are not visible, try to zoom-in/zoom-out to enable the orbit controls. You may need to modify camera position, lighting settings or scale to adjust the scene based on your 3D models. 
 
+You can directly employ the project in VS (project solution included).
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
